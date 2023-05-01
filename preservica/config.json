@@ -1,0 +1,9 @@
+{
+    "preservica_api_url": "preservica.library.yale.edu/api/",
+    "preservica_username": "",
+    "preservica_password": "",
+    "input_csv": "",
+    "output_csv": "",
+    "output_folder": "",
+    "target_folder_titles": ["processed", "TIFFs", "Processed"],
+    "fieldnames": ["aay_url", "call_number", "resource_title", "ao_title", "dob_title", "aspace_uri", "digital_object_id", "du_title", "du_security_tag", "target_folder_title", "target_folder_ref"]}
